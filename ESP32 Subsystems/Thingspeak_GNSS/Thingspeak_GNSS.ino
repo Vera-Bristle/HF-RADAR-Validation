@@ -5,16 +5,16 @@
 
 
 // The ThingSpeak device MQTT username.
-#define THINGSPEAK_MQTT_USERNAME "MzcYMQcDEg0eMTYfMRMBKyI"
+#define THINGSPEAK_MQTT_USERNAME "PC8WHQ4CJBsfAh8aLzImAiE"
 
 //The ThingSpeak device MQTT client id.
-#define THINGSPEAK_MQTT_CLIENT_ID "MzcYMQcDEg0eMTYfMRMBKyI"
+#define THINGSPEAK_MQTT_CLIENT_ID "PC8WHQ4CJBsfAh8aLzImAiE"
 
 // The ThingSpeak device MQTT password.
-#define THINGSPEAK_MQTT_PASSWORD "jnV0bx3kzd8ysQElnuwh9LWy"
+#define THINGSPEAK_MQTT_PASSWORD "jMFWoTtr+g/GEGMaUlDmO2iz9"
 
 //The id of the ThingSpeak channel to publish data to
-#define THINGSPEAK_CHANNEL_ID "3230022"
+#define THINGSPEAK_CHANNEL_ID "3502498"
 
 //The topic to publish ThingSpeak data to.
 #define THINGSPEAK_TOPIC "channels/" THINGSPEAK_CHANNEL_ID "/publish"
